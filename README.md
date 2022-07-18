@@ -1,5 +1,5 @@
 # Fibonacci Sequence Generator
-Fibonacci Sequence Generator
+[![Fibonnaci-Gen-SC.png](https://i.postimg.cc/DZbk05n0/Fibonnaci-Gen-SC.png)](https://postimg.cc/ftZggc3Q)
 ## Get Started
 - Start by running ServerSide.py using the command 'python3 ServerSide.py'
 - In a seperate session, run ClientSide.py using the command 'python3 ClientSide.py'
