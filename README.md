@@ -8,4 +8,4 @@
 
 ## How it works
 The first input provided by the user is the index of a Fibonacci number, the second input is the amount of rows desired to be displayed after.
-Using a websocket, the client connects to the server which then sends a response expecting values from the user.
+Using a websocket, the client connects to the server which then sends a response expecting values from the user. The values are then computed and the server sends an encoded result back to the client.
